@@ -29,7 +29,7 @@ IEEE International Conference on Advancements in Computing (ICAC 2021).
 ### Currently Exploring
 - Cybersecurity Governance
 - Risk Management
-- Data Privacy Practices
+- Data Privacy
 - Information Security Best Practices
 
 
